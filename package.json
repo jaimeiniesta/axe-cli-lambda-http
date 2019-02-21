@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "axe-core": "^3.1.2",
+    "axe-cli": "git+https://git@github.com/dequelabs/axe-cli.git"
+  }
+}
