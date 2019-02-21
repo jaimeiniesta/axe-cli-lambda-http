@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "axe-core": "^3.1.2",
-    "axe-cli": "git+https://git@github.com/dequelabs/axe-cli.git"
+    "axe-cli": "git+https://git@github.com/dequelabs/axe-cli.git",
+    "chrome-aws-lambda": "^1.9.1"
   }
 }
